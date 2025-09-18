@@ -8,7 +8,7 @@ const {
 } = require("@google/generative-ai");
 
 const MODEL_NAME = "gemini-1.5-flash";
-const API_KEY = "AIzaSyBb6OUiGfd1Wev8qcblMz9tot00lpv000Y";
+const API_KEY = "#Add you API Gemini Key";
 
 const MAX_RETRIES = 3;
 const BASE_DELAY_MS = 1500;
@@ -266,3 +266,4 @@ async function runChat(prompt) {
 }
 
 export default runChat;
+
