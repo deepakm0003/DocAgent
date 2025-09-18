@@ -1,0 +1,16 @@
+[
+  {"name":"Haider Abbas","speciality":"Emergency Medicine","address":"King George’s Medical University, Lucknow","email":"haiderup@gmail.com","phone":"9335037686","city":"Lucknow"},
+  {"name":"S. C. Acharjee","speciality":"Ophthalmology","address":"Eye Institute, South Extension II, New Delhi 110049","email":"","phone":"01126440715","city":"New Delhi"},
+  {"name":"Anil Agarwal","speciality":"Orthopaedic Surgery","address":"Chacha Nehru Bal Chikitsalaya, Geeta Colony, Delhi","email":"rachna_anila@yahoo.co.in","phone":"9810290295","city":"Delhi"},
+  {"name":"Ashok Kumar Agarwal","speciality":"Internal Medicine","address":"Dr. Ram Manohar Lohia Hospital, New Delhi 110001","email":"","phone":"01124699445","city":"New Delhi"},
+  {"name":"Nutan Agarwal","speciality":"Obstetrics & Gynaecology","address":"Artemis, South City 1, Gurgaon 122001","email":"nutan_agarwal@yahoo.com","phone":"9810107464","city":"Gurgaon"},
+  {"name":"Rachna Agarwal","speciality":"Obstetrics & Gynaecology","address":"GTB Hospital, Shahdara, Delhi","email":"rachna_anila@yahoo.co.in","phone":"9868399724","city":"Delhi"},
+  {"name":"Amitesh Aggarwal","speciality":"Internal Medicine / Preventive Cardiology","address":"UCMS & GTB Hospital, Delhi","email":"dramitesh@gmail.com","phone":"9811060025","city":"Delhi"},
+  {"name":"Anju Aggarwal","speciality":"Paediatrics","address":"UCMS & GTB Hospital, Dilshad Garden, Delhi 110095","email":"aggar_anju@yahoo.com","phone":"9910329791","city":"Delhi"},
+  {"name":"Niloofer Balsara","speciality":"Clinical Psychology","address":"406 Doctor Centre, 135 Kemps Corner, Mumbai","email":"n_balsara@hotmail.com","phone":"9820065059","city":"Mumbai"},
+  {"name":"Pervin Dadachanji","speciality":"Psychiatry","address":"R.N. Gamadia Polyclinic, Tardeo, Mumbai","email":"pdadachanji@hotmail.com","phone":"9820001939","city":"Mumbai"},
+  {"name":"Jamshed J. Dalal","speciality":"Cardiology","address":"Kokilaben Dhirubhai Ambani Hospital, Andheri, Mumbai 400053","email":"jjdalal@hotmail.com","phone":"9821012409","city":"Mumbai"},
+  {"name":"Ashok Karad","speciality":"Dentistry (Orthodontist)","address":"Smile Care Clinic, Bandra (W), Mumbai 400050","email":"drashokkarad@gmail.com","phone":"02226431670","city":"Mumbai"},
+  {"name":"Anand A Shroff","speciality":"Ophthalmology","address":"Shroff Eye Hospital, Bandra West, Mumbai 400050","email":"anand@shroffeye.org","phone":"02266921000","city":"Mumbai"},
+  {"name":"Parag Sancheti","speciality":"Orthopedics","address":"Sancheti Institute, 16, Shivajinagar, Pune 411005","email":"parag@sanchetihospital.org","phone":"02025536262","city":"Pune"}
+]
