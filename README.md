@@ -9,7 +9,7 @@
 
 **Multi-agent AI health companion that bridges symptoms to action**
 
-DocAgent is an intelligent healthcare system that uses multiple AI agents to triage symptoms, connect users to real doctors, and provide personalized health guidance. Built for the HackOmatic 2025 Agentic AI Hackathon.
+DocAgent is an intelligent healthcare system that uses multiple AI agents to triage symptoms, connect users to real doctors, and provide personalized health guidance.
 
 ![DocAgent Demo](frontend/src/img/hero.png)
 
@@ -316,7 +316,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ for HackOmatic 2025**
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/docagent?style=social)](https://github.com/yourusername/docagent/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/docagent?style=social)](https://github.com/yourusername/docagent/network)
