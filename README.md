@@ -305,7 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Gemini** for powerful AI capabilities
 - **Face-api.js** for facial expression analysis
 - **React Community** for excellent documentation
-- **HackOmatic 2025** for the inspiring hackathon theme
 
 
 ## ⚠️ Disclaimer
